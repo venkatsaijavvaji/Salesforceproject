@@ -3,5 +3,6 @@ public with sharing class firstprogram {
     {
         system.debug('Hlo');
         system.debug('Lalini');
+        system.debug('naga');
     }
 }
